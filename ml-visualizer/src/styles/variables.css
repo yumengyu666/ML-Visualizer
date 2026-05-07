@@ -1,0 +1,58 @@
+/* ===== CSS Variables & Theme System ===== */
+:root {
+  /* Dark theme (default) */
+  --bg-primary: #0A0E1A;
+  --bg-secondary: #111827;
+  --bg-surface: #1A1F2E;
+  --bg-card: rgba(17, 24, 39, 0.7);
+  
+  --text-primary: #F9FAFB;
+  --text-secondary: #9CA3AF;
+  --text-muted: #6B7280;
+  
+  --accent-blue: #00D4FF;
+  --accent-violet: #7B61FF;
+  --accent-green: #00FFB3;
+  --accent-orange: #FF6B35;
+  --accent-red: #FF4757;
+  --accent-yellow: #FFD93D;
+  
+  --border-color: rgba(255, 255, 255, 0.08);
+  --border-glow: rgba(0, 212, 255, 0.3);
+  
+  --glass-bg: rgba(17, 24, 39, 0.6);
+  --glass-border: rgba(255, 255, 255, 0.1);
+  --glass-blur: 12px;
+  
+  --shadow-glow: 0 0 20px rgba(0, 212, 255, 0.15);
+  --shadow-glow-strong: 0 0 40px rgba(0, 212, 255, 0.25);
+  
+  --navbar-height: 64px;
+  --sidebar-width: 280px;
+  --content-max-width: 1200px;
+  
+  --transition-fast: 150ms;
+  --transition-normal: 300ms;
+  --transition-slow: 500ms;
+}
+
+/* Light theme */
+html.light {
+  --bg-primary: #F3F4F6;
+  --bg-secondary: #FFFFFF;
+  --bg-surface: #E5E7EB;
+  --bg-card: rgba(255, 255, 255, 0.8);
+  
+  --text-primary: #111827;
+  --text-secondary: #4B5563;
+  --text-muted: #9CA3AF;
+  
+  --border-color: rgba(0, 0, 0, 0.08);
+  --border-glow: rgba(0, 212, 255, 0.2);
+  
+  --glass-bg: rgba(255, 255, 255, 0.6);
+  --glass-border: rgba(0, 0, 0, 0.08);
+  
+  --shadow-glow: 0 0 20px rgba(0, 212, 255, 0.1);
+  --shadow-glow-strong: 0 0 40px rgba(0, 212, 255, 0.15);
+}

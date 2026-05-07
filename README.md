@@ -7,6 +7,8 @@
 [![Three.js](https://img.shields.io/badge/Three.js-r170-000000?logo=three.js)](https://threejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+> 🔗 **在线演示：[yumengyu666.github.io/ML-Visualizer](https://yumengyu666.github.io/ML-Visualizer/)**
+
 ML-Visualizer 是一个交互式机器学习知识可视化平台，通过动态动画、3D 可视化和代码实践，帮助学习者直观理解机器学习和深度学习的核心概念。
 
 ---

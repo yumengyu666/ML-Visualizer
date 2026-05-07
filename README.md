@@ -66,7 +66,6 @@ ML-Visualizer 是一个交互式机器学习知识可视化平台，通过动态
 ## 快速开始
 
 ```bash
-cd ml-visualizer
 npm install
 npm run dev
 ```
@@ -82,27 +81,23 @@ npm run build
 ## 项目结构
 
 ```
-ML-Visualizer/
-├── ml-visualizer/
-│   ├── src/
-│   │   ├── views/              # 页面组件（8 个知识模块 + 首页 + 知识图谱）
-│   │   ├── components/
-│   │   │   ├── animations/     # 核心可视化组件
-│   │   │   ├── content/        # 知识内容（卡片、代码、公式、文献）
-│   │   │   ├── experiment/     # 交互实验组件
-│   │   │   ├── layout/         # 布局组件
-│   │   │   └── ui/             # 通用 UI 组件
-│   │   ├── composables/        # Vue 组合式函数
-│   │   ├── stores/             # Pinia 状态（主题、进度、搜索）
-│   │   ├── router/             # 路由配置
-│   │   ├── utils/              # 工具函数
-│   │   └── styles/             # 全局样式
-│   ├── public/
-│   ├── index.html
-│   ├── vite.config.js
-│   └── package.json
-├── README.md
-└── .gitignore
+├── src/
+│   ├── views/              # 页面组件（8 个知识模块 + 首页 + 知识图谱）
+│   ├── components/
+│   │   ├── animations/     # 核心可视化组件
+│   │   ├── content/        # 知识内容（卡片、代码、公式、文献）
+│   │   ├── experiment/     # 交互实验组件
+│   │   ├── layout/         # 布局组件
+│   │   └── ui/             # 通用 UI 组件
+│   ├── composables/        # Vue 组合式函数
+│   ├── stores/             # Pinia 状态（主题、进度、搜索）
+│   ├── router/             # 路由配置
+│   ├── utils/              # 工具函数
+│   └── styles/             # 全局样式
+├── public/
+├── index.html
+├── vite.config.js
+└── package.json
 ```
 
 ---
@@ -115,8 +110,6 @@ ML-Visualizer/
 | Edge | ✅ |
 | Firefox | ✅ |
 | Safari | ✅ |
-
-分辨率：1366×768 至 2560×1440
 
 ---
 

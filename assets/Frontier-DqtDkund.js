@@ -1,4 +1,4 @@
-import{_ as p,u as m,o as f,c as v,d as s,a as l,w as i,e as t,p as a,g as _}from"./index-18gw1_iM.js";import{F as o,C as e,e as g,K as r,W as N,a as C,P as u}from"./configs-DUDS0ZgW.js";const P={class:"frontier-page module-content"},b=`import torch
+import{_ as p,u as m,o as f,c as v,d as s,a as l,w as i,e as t,p as a,g as _}from"./index-CbXlNRuf.js";import{F as o,C as e,e as g,K as r,W as N,a as C,P as u}from"./configs-y3mOB0wl.js";const P={class:"frontier-page module-content"},b=`import torch
 import torch.nn as nn
 import torch.nn.functional as F
 

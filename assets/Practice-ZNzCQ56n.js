@@ -1,4 +1,4 @@
-import{_ as S,u as A,o as C,c as g,d as s,a as l,w as r,F as T,r as _,e as t,p,g as m,t as e}from"./index-18gw1_iM.js";import{K as o,F as i,C as u,e as f,W as b,a as L,P as v}from"./configs-DUDS0ZgW.js";const P={class:"practice-page module-content"},M={class:"flow-steps"},k={class:"step-num"},I={class:"step-info"},F=`import pandas as pd
+import{_ as S,u as A,o as C,c as g,d as s,a as l,w as r,F as T,r as _,e as t,p,g as m,t as e}from"./index-CbXlNRuf.js";import{K as o,F as i,C as u,e as f,W as b,a as L,P as v}from"./configs-y3mOB0wl.js";const P={class:"practice-page module-content"},M={class:"flow-steps"},k={class:"step-num"},I={class:"step-info"},F=`import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.model_selection import StratifiedKFold

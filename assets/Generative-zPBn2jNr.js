@@ -1,4 +1,4 @@
-import{_ as f,u as g,o as m,c as x,d as s,a as l,w as i,e as t,p as r,g as v}from"./index-18gw1_iM.js";import{K as o,F as e,C as d,e as u,W as G,a as D,P as a}from"./configs-DUDS0ZgW.js";const N={class:"generative-page module-content"},A=`import torch
+import{_ as f,u as g,o as m,c as x,d as s,a as l,w as i,e as t,p as r,g as v}from"./index-CbXlNRuf.js";import{K as o,F as e,C as d,e as u,W as G,a as D,P as a}from"./configs-y3mOB0wl.js";const N={class:"generative-page module-content"},A=`import torch
 import torch.nn as nn
 
 # 简单 GAN 实现
